@@ -136,7 +136,7 @@ button {
   padding: 0;
   border: 0;
   outline: none;
-  font-family: FontAwesome;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-style: normal;
   font-size: 17px;
 }
