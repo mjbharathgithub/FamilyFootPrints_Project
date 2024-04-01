@@ -104,7 +104,7 @@ color VARCHAR(15)
 
 CREATE TABLE visited_countries(
 id SERIAL PRIMARY KEY,
-country_code VARCHAR(2) NOT NULL,
+country_code VARCHAR(42) NOT NULL,
 user_id INTEGER REFERENCES users(id)
 );
 
